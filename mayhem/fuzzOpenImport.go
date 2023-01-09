@@ -1,4 +1,4 @@
-package fuzz
+package fuzzOpenImport
 
 import "ariga.io/entimport/internal/mux"
 
